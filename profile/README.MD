@@ -15,7 +15,7 @@ Stay tuned for exciting new projects, updates, and contributions to the ever-gro
 ---
 
 📌 **GitHub:** [github.com/jagmt](https://github.com/jagmt)  
-📌 **Discord:** [Join Our Community](https://discord.gg/yourinvite)  
+📌 **Discord:** [Join Our Community](https://discord.gg/ZJFqZsFZVq)  
 📌 **Website:** [Official Website](https://google.com)  
 
 🚀 **Just A Generic Modding Team - JAGMT.**
